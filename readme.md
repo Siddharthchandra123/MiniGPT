@@ -50,6 +50,7 @@ Feed Forward Network – nonlinear feature transformation
 Layer Normalization – stabilizes training
 
 # 📂 Project Structure
+```
 MiniLLM/
 │
 ├── dataset/
@@ -70,6 +71,7 @@ MiniLLM/
 │
 └── README.md
 # 📊 Model Configuration
+```
 
 Example configuration used in MiniLLM:
 
